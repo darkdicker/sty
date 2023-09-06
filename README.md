@@ -1,0 +1,2 @@
+# sty
+my_reposity
